@@ -17,6 +17,7 @@ nav{
 main>.container {
     padding: 60px 15px 0;
     margin-bottom: 5rem;
+    background-color: rgb(226, 226, 226);
 }
 
 .techicons{
@@ -66,4 +67,12 @@ main>.container {
     font-size: 1.5rem;
     font-weight: bold;
     color: red;
+}
+
+.loanForm{
+    background-color:  #fafcfd;
+    margin: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 15px;
 }
